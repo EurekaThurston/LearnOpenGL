@@ -1,0 +1,72 @@
+newmtl paimeng:m0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+map_Kd face.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+map_Kd hair.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+map_Kd face.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.60 0.60 0.60
+Tf 1.00 1.00 1.00
+map_Kd cloth.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+map_Kd cloth.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+map_Kd hair.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.75 0.75 0.75
+Tf 0.80 0.80 0.80
+map_Kd cape2.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 5.00
+newmtl paimeng:m14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd expression.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 15.30
